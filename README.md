@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Es-Di-Bee 
-- 👀 I’m interested in Machine Learning, Computer Vision, Data Science.
-- 🌱 I’m currently learning Image Processing.
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- I’m interested in Machine Learning, Computer Vision, Data Science.
+- I’m currently learning Image Processing.
+- I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me -> shadabiqbalmu@gmail.com
 
 <!---
