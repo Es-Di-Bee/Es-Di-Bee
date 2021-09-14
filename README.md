@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Es-Di-Bee 
 - I’m interested in Machine Learning, Computer Vision, Data Science.
-- I’m looking to collaborate on Machine Learning Projects
+- I’m looking to collaborate on projects based on the above mentioned domains.
 - 📫 How to reach me -> shadabiqbalmu@gmail.com
 
 <!---
