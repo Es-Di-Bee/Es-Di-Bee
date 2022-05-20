@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Es-Di-Bee 
-- I’m interested in Machine Learning, Computer Vision, Data Science.
+- I’m interested in Blockchain, Smart Contracts, NFT, Machine Learning & Data Science.
 - I’m looking to collaborate on projects based on the above mentioned domains.
 - 📫 How to reach me -> shadabiqbalmu@gmail.com
 
